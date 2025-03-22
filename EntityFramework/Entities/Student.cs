@@ -1,5 +1,4 @@
-﻿
-namespace EntityFrameworkLesson1
+﻿namespace EntityFrameworkLesson1.Entities
 {
     public class Student
     {
